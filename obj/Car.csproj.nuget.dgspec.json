@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\austi\\Desktop\\Projects\\car\\Car.csproj": {}
+    "C:\\Users\\austi\\Desktop\\Projects\\car\\Car.csproj": {}
   },
   "projects": {
-    "c:\\Users\\austi\\Desktop\\Projects\\car\\Car.csproj": {
+    "C:\\Users\\austi\\Desktop\\Projects\\car\\Car.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\austi\\Desktop\\Projects\\car\\Car.csproj",
+        "projectUniqueName": "C:\\Users\\austi\\Desktop\\Projects\\car\\Car.csproj",
         "projectName": "Car",
-        "projectPath": "c:\\Users\\austi\\Desktop\\Projects\\car\\Car.csproj",
+        "projectPath": "C:\\Users\\austi\\Desktop\\Projects\\car\\Car.csproj",
         "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\austi\\Desktop\\Projects\\car\\obj\\",
+        "outputPath": "C:\\Users\\austi\\Desktop\\Projects\\car\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
